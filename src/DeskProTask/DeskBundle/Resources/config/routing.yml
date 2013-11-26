@@ -1,0 +1,3 @@
+desk_pro_task_desk_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: DeskProTaskDeskBundle:Default:index }

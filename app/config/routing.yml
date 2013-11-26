@@ -1,0 +1,4 @@
+desk_pro_task_desk:
+    resource: "@DeskProTaskDeskBundle/Resources/config/routing.yml"
+    prefix:   /
+

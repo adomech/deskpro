@@ -1,0 +1,7 @@
+parameters:
+#    desk_pro_task_desk.example.class: DeskProTask\DeskBundle\Example
+
+services:
+#    desk_pro_task_desk.example:
+#        class: %desk_pro_task_desk.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
