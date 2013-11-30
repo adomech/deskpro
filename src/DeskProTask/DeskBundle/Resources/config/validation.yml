@@ -1,0 +1,8 @@
+DeskProTask\DeskBundle\Entity\Users:
+ properties: 
+
+ name: 
+ 		- NotBlank: {message: "Debes darle nombre a la tarea"}
+
+ mail: 
+ 		- NotBlank: {message: "Debes insertar una fecha válida"}
